@@ -1,0 +1,7 @@
+{
+	"name" : "starter",
+	"dependencies": {
+		"uikit": "^2.27.2",
+	 	"breakpoint-sass": "^2.7.1"
+	}
+}
